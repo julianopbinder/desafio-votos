@@ -259,3 +259,13 @@ Após o deploy, o Swagger ficará disponível na URL pública da aplicação, no
 ## Observações finais
 
 O projeto foi desenvolvido com foco em simplicidade, legibilidade e atendimento direto aos requisitos do desafio. A API expõe apenas os endpoints necessários para o fluxo de votação, mantém as regras de negócio em serviços, usa persistência em banco relacional, possui tratamento de erros padronizado, contém logs nos pontos relevantes e inclui testes automatizados para validar os principais cenários.
+
+## Deploy em produção
+
+A API está publicada no Railway e pode ser acessada por HTTPS em:
+
+https://desafio-votos-production.up.railway.app
+
+## A documentação interativa Swagger UI está disponível em:
+
+https://desafio-votos-production.up.railway.app/swagger-ui/index.html
