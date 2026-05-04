@@ -264,8 +264,4 @@ O projeto foi desenvolvido com foco em simplicidade, legibilidade e atendimento 
 
 A API está publicada no Railway e pode ser acessada por HTTPS em:
 
-https://desafio-votos-production.up.railway.app
-
-## A documentação interativa Swagger UI está disponível em:
-
 https://desafio-votos-production.up.railway.app/swagger-ui/index.html
